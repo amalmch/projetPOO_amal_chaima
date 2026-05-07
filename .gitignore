@@ -1,0 +1,9 @@
+target/
+*.class
+.idea/
+*.iml
+.vscode/
+data/
+chiffres.txt
+chiffres.xlsx
+docs/screenshot.png
