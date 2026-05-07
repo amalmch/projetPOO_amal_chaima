@@ -1,7 +1,5 @@
 # MNIST Digit Recognition: Trois vs Cinq
 
-![Application Screenshot](docs/screenshot.png)
-
 A modern, machine learning-powered Java application that allows users to draw digits on a canvas and automatically classifies them as either **3 (Trois)** or **5 (Cinq)** using advanced AI algorithms. 
 
 ## ✨ Features
@@ -68,8 +66,7 @@ Projet POO/
 
 ## 📸 Screenshots
 
-*(Please replace `docs/screenshot.png` with an actual screenshot of the application).*
+<img width="700" height="400" alt="Capture d&#39;écran 2026-05-07 191336" src="https://github.com/user-attachments/assets/772b6248-cddb-4f11-b979-b97881b05055" />
+<img width="700" height="400" alt="Capture d&#39;écran 2026-05-07 191347" src="https://github.com/user-attachments/assets/f3256315-fbcd-4e1d-ba6c-c8dd16ca6795" />
+<img width="700" height="400" alt="Capture d&#39;écran 2026-05-07 191401" src="https://github.com/user-attachments/assets/90188644-cafc-44f9-a1f9-28e2f94c0b7e" />
 
-## 📖 Comprehensive Report
-
-For a deep dive into the project's architecture, machine learning concepts, implementation details, and evaluation metrics, please refer to the detailed [Project Report](docs/REPORT.md).
